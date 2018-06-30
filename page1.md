@@ -16,4 +16,24 @@ It takes a while to work from here
 
 **Bold** and _Italic_ and `Code` text
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+Tables: 
+You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+I think you should use an `<addr> </addr>` element here instead.
+
 [Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://www.rawpixel.com/image/421160/mandore-player-histoire-de-lart-egyptien-1878-emile-prisse-davennes-1807-1879-digitally-enhancedsrc)
