@@ -45,8 +45,11 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 
-[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story]({{site.github.url}}/_images/prash.jpg)
-<!-- refer: https://raw.githubusercontent.com/Csega/csega.github.io/master/_posts/2017-03-27-office-euqation-referencing.markdown -->
+[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story]({{ site.url }}/_images/prash.jpg)
+<!-- refer: https://raw.githubusercontent.com/Csega/csega.github.io/master/_posts/2017-03-27-office-euqation-referencing.markdown 
+
+https://github.com/liweinan/liweinan.github.io/blob/master/_posts/2017-03-04-Dijkstra-algorithm.md
+-->
 
 
 // bibiliography
