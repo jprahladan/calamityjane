@@ -39,9 +39,10 @@ function fancyAlert(arg) {
 
 I think you should use an `<addr> </addr>` element here instead.
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 
 [Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://www.rawpixel.com/image/421160/mandore-player-histoire-de-lart-egyptien-1878-emile-prisse-davennes-1807-1879-digitally-enhancedsrc)
