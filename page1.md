@@ -45,7 +45,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 
-[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story]({{site.url}}/_images/prash.jpg)
+[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://drive.google.com/file/d/0B6fUc4FSV7B9aFVlRlk2NERRUEtrLURHZkFZZkFfa3RmY0d3/view?usp=sharing)
 
 
 // bibiliography
