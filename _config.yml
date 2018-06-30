@@ -1,4 +1,16 @@
-theme: jekyll-theme-minimal
-markdown: kramdown
 title: Personal Blog of jPrahladan
 description: What can I say, is this really true?
+
+instagram_username: cairns_n_cages
+twitter_username: jprah
+github_username:  jprahladan
+
+baseurl: "/calamityjane" # the subpath of your site, e.g. /blog
+url: "jprahladan.github.io" # the base hostname & protocol for your site
+
+# Build settings
+
+
+
+theme: jekyll-theme-minimal
+markdown: kramdown
