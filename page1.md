@@ -45,7 +45,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 
-[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://www.rawpixel.com/image/421160/mandore-player-histoire-de-lart-egyptien-1878-emile-prisse-davennes-1807-1879-digitally-enhancedsrc)
+[Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://www.flickr.com/photos/nelsonro/1097698638/in/photolist-2EZZyA-em6fCn-5zbYiw-CpHGj-69anvD-UE6WSM-4JNrRv-9BHhNk-8vEXkh-pXKvew-27EaKdX-HYibPu-eaeFWd-4E1Y3u-21Nv1Fy-27aw5iD-o28QNw-7pduNz-CQYr5R-4JSFtj-fAJ72g-qgfs8S-rDpptR-8zFpqg-Wdbn4v-62FWa1-UE6URx-93wZHH-6cnfSa-8Mx2mF-5SDGHr-6h1cqN-23indMk-KLbunS-To3ZFE-crXU5h-9EjsY3-dZRjFE-bEY8Vk-hxse2E-oKtd57-g7rmkr-4KPft2-nURVEx-44j6YG-qSPo2q-oZTWjT-9ewWeV-acxLW-jbKd5Y/)
 
 
 // bibiliography
