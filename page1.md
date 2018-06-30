@@ -1,5 +1,6 @@
+---
 layout: default
-
+---
 
 Hi! You've now entered into jprahladan's domain. There's a lot I would like to share with you, but then again, sometimes, things are best left unsaid. The personal can be deciphered and interpreted from the professional, but not always. We humans tend to compartmentalize our lives so, that we can experience the diversity that life provides us, within each new context. 
 
