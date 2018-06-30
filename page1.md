@@ -1,3 +1,6 @@
+mathjax: true
+
+
 Hi! You've now entered into jprahladan's domain. There's a lot I would like to share with you, but then again, sometimes, things are best left unsaid. The personal can be deciphered and interpreted from the professional, but not always. We humans tend to compartmentalize our lives so, that we can experience the diversity that life provides us, within each new context. 
 
 # Attempt at a Main Title
@@ -35,5 +38,8 @@ function fancyAlert(arg) {
 ```
 
 I think you should use an `<addr> </addr>` element here instead.
+
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 [Jprah 'n Words](http://jprahnwords.blogspot.com/2006/) and ![Her Story](https://www.rawpixel.com/image/421160/mandore-player-histoire-de-lart-egyptien-1878-emile-prisse-davennes-1807-1879-digitally-enhancedsrc)
