@@ -1,22 +1,25 @@
 <script type="text/javascript">
         MathJax.Hub.Config({
-            config: ["MMLorHTML.js"],
-            extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
-            jax: ["input/TeX"],
+            //config: ["MMLorHTML.js"],
+            //extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+            //jax: ["input/TeX"],
+        jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+        extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js", "mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "a11y/accessibility-menu.js"],
+        // extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
             tex2jax: {
                 inlineMath: [['$','$'], ['\\(','\\)']],
                 displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-                processEscapes: false
+                processEscapes: true
             },
             TeX: {
-                tagSide: "right",
-                tagIndent: ".8em",
-                multLineWidth: "85%",
+                //tagSide: "right",
+                //tagIndent: ".8em",
+                //multLineWidth: "85%",
                 equationNumbers: { autoNumber: "AMS" } ,
                 unicode: {fonts: "STIXGeneral,'Arial Unicode MS'"}
             },
             showProcessingMessages: true
         });
 </script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default" type="text/javascript"></script>
 
